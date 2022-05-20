@@ -1,4 +1,4 @@
-//Salgado M. B. D. I IT21289934  MLB_11.01_HealthInsurance
+//Salgado M. B. D. IT21289934  MLB_11.01_HealthInsurance
 
 #include<iostream>
 #include <cstring>
